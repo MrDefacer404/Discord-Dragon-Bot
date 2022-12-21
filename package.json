@@ -1,0 +1,34 @@
+{
+  "name": "Dragon-Bot",
+  "version": "1.0.0",
+  "description": "Dicord Dragon Studio Bot",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "console-title": "^1.1.0",
+    "dankmemes": "^1.0.0",
+    "discord.js": "^11.6.4",
+    "forever": "^3.0.0",
+    "forever-monitor": "^3.0.1",
+    "get-json": "^1.0.1",
+    "google-images": "^2.1.0",
+    "jimp": "^0.5.6",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrWall112/advanced-discord-bot-easy-install.git"
+  },
+  "author": "ben wall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrWall112/advanced-discord-bot-easy-install/issues"
+  },
+  "homepage": "https://github.com/MrWall112/advanced-discord-bot-easy-install#readme"
+}

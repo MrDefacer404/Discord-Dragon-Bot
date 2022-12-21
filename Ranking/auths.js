@@ -1,0 +1,5 @@
+
+module.exports = {
+	"discordToken":"NzM2ODgzNDc0ODg3MzQ0MTMw.Xx1SNw.Wxlk4_qn0UY_PxKdfSl05rsGKtk",
+	"prefix":"$"
+}
